@@ -1,6 +1,8 @@
 # Hi, I'm Jung Park 👋
 
-I'm a new Software Engineering graduate from the University of Calgary.
+I'm a new Software Engineering graduate from the University of Calgary with an interest in machine learning and developing full-stack applications. This summer, I'm currently practicing LeetCode, building new full-stack projects, and looking for software engineering opportunities.
+
+Feel free to check on what I have worked on!
 
 ---
 
