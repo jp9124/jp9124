@@ -15,6 +15,7 @@ Feel free to check on what I have worked on!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-3776AB?style=flat-square&logo=rust&logoColor=fff)
 
 **Web & Mobile**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
